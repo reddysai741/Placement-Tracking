@@ -1,0 +1,12 @@
+pandas
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
+pymupdf  # For fitz (PyMuPDF)
+selenium
+python-dotenv
+linkedin-api
+streamlit
+pdfplumber
